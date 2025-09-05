@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 3rd-year B.Tech student and a passionate Web Developer focused on creating clean, responsive, and user-friendly websites and mobile interfaces.</p>
+<p align="left">I'm a 4th-year B.Tech student and a passionate Web Developer focused on creating clean, responsive, and user-friendly websites and mobile interfaces.</p>
 
 ###
 
