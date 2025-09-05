@@ -6,25 +6,11 @@
 
 ###
 
-<p align="left">🔭 Currently learning Python & JavaScript<br><br>🌱 Passionate about exploring the latest web technologies and applying them in real projects.<br><br>🌐 Building responsive websites and web applications with HTML, CSS, and JavaScript. Currently diving into the MERN stack to develop full-stack applications.<br><br>💬 Ask me about Java, Frontend Development, or UI/UX best practices.<br><br>📫 Reach me at: vk6051950@gmail.com<br><br>⚡ Fun fact: I believe code is not just logic — it’s also design and creativity. 🎨💻</p>
-
-###
-
 <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGcyeTR2bmx2cnQxYzV0eWNpM2J3aWl6NnlpejQyYTJydXdub3VubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"  />
 
 ###
 
-<div align="right">
-  <a href="https://www.linkedin.com/in/bappaditya-biswas-00959a276/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="vk6051950@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/x_vishal05?igsh=MTIxcHFwNTNmdzk1MA==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+<p align="left">🔭 Currently learning Python & JavaScript<br><br>🌱 Passionate about exploring the latest web technologies and applying them in real projects.<br><br>🌐 Building responsive websites and web applications with HTML, CSS, and JavaScript. Currently diving into the MERN stack to develop full-stack applications.<br><br>💬 Ask me about Java, Frontend Development, or UI/UX best practices.<br><br>📫 Reach me at: vk6051950@gmail.com<br><br>⚡ Fun fact: I believe code is not just logic — it’s also design and creativity. 🎨💻</p>
 
 ###
 
@@ -60,16 +46,31 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=vishal9958&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal9958&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal9958&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Python" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal9958/vishal9958/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishal9958/vishal9958/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vishal9958/vishal9958/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/vishal9958/vishal9958/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
 ###
