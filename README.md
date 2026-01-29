@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 Currently learning Python & JavaScript<br><br>🌱 Passionate about exploring the latest web technologies and applying them in real projects.<br><br>🌐 Building responsive websites and web applications with HTML, CSS, and JavaScript. Currently diving into the MERN stack to develop full-stack applications.<br><br>💬 Ask me about Java, Frontend Development, or UI/UX best practices.<br><br>📫 Reach me at: vk6051950@gmail.com<br><br>⚡ Fun fact: I believe code is not just logic — it’s also design and creativity. 🎨💻</p>
+<p align="left">🔭 Currently learning Python & JavaScript<br><br>🌱 Passionate about exploring the latest web technologies and applying them in real projects.<br><br>🌐 Building responsive websites and web applications with HTML, CSS, and JavaScript. Currently diving into the MERN stack to develop full-stack applications.<br><br>💬 Ask me about Java, Frontend Development, or UI/UX best practices.<br><br>📫 Reach me at: https://bappaditya.vercel.app/ <br><br>⚡ Fun fact: I believe code is not just logic — it’s also design and creativity. 🎨💻</p>
 
 ###
 
