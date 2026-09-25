@@ -1,116 +1,228 @@
+<!-- ========================================= -->
+<!--              SIDEONE / BAPPADITYA         -->
+<!-- ========================================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Bappaditya
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050816,50:0B1026,100:12002B&text=BAPPADITYA&fontColor=7CF7FF&fontSize=48&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20CREATIVE%20CODER%20%7C%20PROBLEM%20SOLVER&descAlignY=65&descColor=C9B8FF&animation=twinkling"/>
 
-### `Full Stack Developer` · `Creative Coder` · `Problem Solver`
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=2800&pause=900&color=7CF7C5&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;Turning+ideas+into+digital+products;React+%7C+Node.js+%7C+Python;Always+learning+%26+building" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2500&pause=800&color=7CF7FF&center=true&vCenter=true&width=800&lines=Building+modern+web+applications;Turning+ideas+into+digital+products;React+%7C+Node.js+%7C+Python;Real-time+systems+%7C+AI+%7C+WebRTC;Always+learning.+Always+building." />
 
 <br>
 
 <a href="https://bappaditya.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-7CF7C5?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-7CF7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 <a href="https://github.com/vishal9958">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="mailto:bappaditya@example.com">
+<img src="https://img.shields.io/badge/EMAIL-BD93F9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=vishal9958&label=PROFILE%20VIEWS&color=7CF7FF&style=flat-square"/>
 
 </div>
 
 ---
 
-## 🧊 ABOUT ME
+# 🌌 `WHO AM I`
 
 <table>
 <tr>
+<td width="65%">
 
-<td width="55%">
+## 👋 Hi, I'm Bappaditya
 
-### `01` — Who I am
-
-I'm a passionate web developer focused on building
-**clean, responsive and user-friendly digital experiences.**
+I'm a **Full Stack Developer** focused on building modern,
+responsive and user-friendly digital products.
 
 I enjoy working across the stack — from designing interfaces
 to building APIs, databases and real-time applications.
 
-### `02` — Currently
+> **Code is not just logic.  
+> It's also design, creativity and impact.**
 
-- 🔭 Working on real-world web applications
-- 🌱 Exploring Python & JavaScript
-- ⚡ Learning modern full-stack architecture
-- 🎨 Interested in UI/UX and product design
-- 🚀 Building projects instead of just tutorials
+### `CURRENTLY`
+
+🔭 Building real-world web applications
+
+🌱 Exploring Python & JavaScript
+
+⚡ Learning modern full-stack architecture
+
+🎨 Interested in UI/UX and product design
+
+🚀 Building projects instead of only tutorials
 
 </td>
 
-<td width="45%" align="center">
+<td width="35%" align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGcyeTR2bmx2cnQxYzV0eWNpM2J3aWl6NnlpejQyYTJydXdub3VubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"
-width="320"/>
+<img
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGcyeTR2bmx2cnQxYzV0eWNpM2J3aWl6NnlpejQyYTJydXdub3VubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"
+width="320"
+/>
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# ⚡ TECH STACK
+# 🧬 `QUICK FACTS`
 
 <div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-
-<br><br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java" />
-
-<br><br>
-
-### Database & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,postman,figma,vscode" />
-
-</div>
-
----
-
-# 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
 
-<td width="50%">
+<td align="center" width="20%">
 
-## 🎙️ VoiceBridge
+### 💻
 
-Real-time voice communication and
-AI voice-data collection platform.
+**FULL STACK**
 
-**Stack**
-
-`React Native` `WebRTC`
-`Socket.IO` `REST APIs`
+React  
+Node.js  
+Python
 
 </td>
 
-<td width="50%">
+<td align="center" width="20%">
 
-## 📄 Resume-AI Analyzer
+### ⚡
 
-AI-powered resume analysis and
-job matching platform.
+**REAL-TIME**
+
+WebRTC  
+Socket.IO  
+REST APIs
+
+</td>
+
+<td align="center" width="20%">
+
+### 🧠
+
+**INTERESTS**
+
+AI  
+UI/UX  
+Product Design
+
+</td>
+
+<td align="center" width="20%">
+
+### 🚀
+
+**FOCUS**
+
+Building  
+Learning  
+Shipping
+
+</td>
+
+<td align="center" width="20%">
+
+### 🎨
+
+**CREATIVE**
+
+Photography  
+Cinematography  
+Design
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# ⚡ `TECH STACK`
+
+<div align="center">
+
+## 🎨 FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+
+<br><br>
+
+## ⚙️ BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java&theme=dark" />
+
+<br><br>
+
+## 🗄️ DATABASE + DEV TOOLS
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,postman,figma,vscode&theme=dark" />
+
+</div>
+
+---
+
+# 🚀 `FEATURED PROJECTS`
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🎙️ VoiceBridge</h2>
+
+Real-time voice communication and AI
+voice-data collection platform.
+
+<br>
 
 **Stack**
 
-`React` `Flask`
-`LLMs` `REST APIs`
+`React Native`  
+`WebRTC`  
+`Socket.IO`  
+`REST APIs`
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7CF7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>📄 Resume-AI Analyzer</h2>
+
+AI-powered resume analysis and job
+matching platform.
+
+<br>
+
+**Stack**
+
+`React`  
+`Flask`  
+`LLMs`  
+`REST APIs`
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-BD93F9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -118,27 +230,48 @@ job matching platform.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 📦 Drovia
+<h2>📦 Drovia</h2>
 
 Real-time file sharing platform with
 QR sharing and PIN-protected downloads.
 
+<br>
+
 **Stack**
 
-`React` `WebRTC`
+`React`  
+`WebRTC`  
 `REST APIs`
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7CF7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🧠 More Projects
+<h2>🧠 More Projects</h2>
 
-Building and experimenting with
-web applications, AI tools and
-real-time systems.
+Building and experimenting with:
+
+`AI`
+
+`Real-Time Systems`
+
+`Web Applications`
+
+`Full Stack Products`
+
+<br>
+
+<a href="https://github.com/vishal9958?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -147,73 +280,25 @@ real-time systems.
 
 ---
 
-# 📊 GITHUB SYSTEM
+# 📡 `WHAT I LIKE TO BUILD`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app?username=vishal9958&theme=algolia&column=-1&row=1&margin-w=10&margin-h=10&no-bg=true" />
-
-<br><br>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=vishal9958&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal9958&layout=compact&theme=transparent&hide_border=true" />
-
-<br>
-
-<img width="70%"
-src="https://streak-stats.demolab.com?user=vishal9958&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-# 🧬 CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal9958&bg_color=0D1117&color=7CF7C5&line=7CF7C5&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION FLOW
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/vishal9958/vishal9958/output/pacman-contribution-graph-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/vishal9958/vishal9958/output/pacman-contribution-graph.svg">
-  <img
-    alt="github contribution graph"
-    src="https://raw.githubusercontent.com/vishal9958/vishal9958/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
-
----
-
-# 🌐 LET'S CONNECT
-
-<div align="center">
-
-<a href="https://bappaditya.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-7CF7C5?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-<a href="https://github.com/vishal9958">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-### `BUILD  ·  CREATE  ·  ITERATE  ·  SHIP`
-
-</div>
+```text
+              ┌──────────────────────────────┐
+              │       DIGITAL PRODUCTS      │
+              └──────────────┬───────────────┘
+                             │
+            ┌────────────────┼────────────────┐
+            │                │                │
+            ▼                ▼                ▼
+       WEB APPS          AI SYSTEMS      REAL-TIME APPS
+            │                │                │
+            ▼                ▼                ▼
+        React            LLMs            WebRTC
+        Node.js          Python          Socket.IO
+        REST             APIs            Streaming
+            │                │                │
+            └────────────────┼────────────────┘
+                             ▼
+                      BETTER EXPERIENCES
